@@ -1,1 +1,1 @@
-# Secure RESTFUL Node.js app
+# Secure RESTFUL API Node.js app
